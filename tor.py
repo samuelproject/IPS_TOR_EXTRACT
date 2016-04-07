@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#Author : @saamux /Twitter
+#Github : https://github.com/samuelproject
 
 import requests
 from bs4 import BeautifulSoup
